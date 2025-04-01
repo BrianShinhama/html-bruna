@@ -1,0 +1,22 @@
+square {  
+    width: 175px;  
+    padding: 0px;  
+    margin-left: 840px;  
+    display: flex;  
+    position: relative;  
+    background-color: white;  
+    border-radius: 10px;  
+    margin-top: -10px;  
+    flex-wrap: wrap; 
+}  
+
+square2 {  
+    padding: 19px;  
+    width: 300px;  
+    background-color: white;  
+    position: initial;  
+    display: flex;  
+    border-radius: 10px;  
+    margin-left: 755px;  
+    flex-wrap: wrap; 
+}  
